@@ -5,6 +5,8 @@
 
 ## Sequencial
 
+URI1001 - Hello World!
+
 URI1001 - Extremamente Básico
 
 URI1002 - Área do Círculo
@@ -144,6 +146,8 @@ URI1131 - Grenais
 URI1132 - Múltiplos de 13
 
 URI1134 - Tipo de Combustível
+
+URI1142 - PUM
 
 URI1143 - Quadrado e ao Cubo
 
