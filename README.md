@@ -3,6 +3,10 @@
 </p>
 
 
+## Importante
+
+O nome da classe deve ser "Main" para que a sua solução execute.
+
 ## Sequencial
 
 URI1001 - Hello World!
